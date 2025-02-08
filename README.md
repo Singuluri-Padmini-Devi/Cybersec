@@ -2,7 +2,6 @@
 
 A modern, responsive admin dashboard built with React, TypeScript, and Tailwind CSS. Features a clean interface with data visualization, user management, and real-time analytics.
 
-![Dashboard Preview](https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 ## Features
 
